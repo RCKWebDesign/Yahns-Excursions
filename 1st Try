@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>   Mr. Yahn's First Page </title>
+</head>
+<body>
+<div style="background-image: url('snow.jpg');">
+<b>This is my first page in HTML</b>
+<p> I can write in <i>italic</i> or <b> BOLD </b> <br>
+<HR>
+<HR>
+<b><i> Or I can write in both </b></i><br>
+<HR>
+<tt>  .......and that's all for Now! </tt>
+</body>
+</html>
